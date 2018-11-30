@@ -1,0 +1,103 @@
+#home-wrapper h1 {
+  color: #4a90e2;
+}
+
+#home-wrapper h2 {
+  color: #ff3c2c;
+}
+
+#home-wrapper h3 {
+  color: #ff8500;
+}
+
+.container h2 {
+font-family:'Press Start 2P', cursive;
+color:white;
+text-align: center;
+background-color: rgba(0,0,0,.2);
+padding: 8px;
+border-radius: 8px;
+}
+
+.container form{
+  color:red;
+  font-family:'Press Start 2P', cursive;
+  background-color: rgba(0,0,0,.2);
+  padding:12px;
+  border-radius: 8px;
+}
+
+/* .container a{
+  background-color: rgba(0,0,0,.2);
+  border-radius: 8px;
+  padding:5px;
+} */
+
+.form-group label{
+  background-color: rgba(0,0,0,.2);
+  padding:5px;
+  border-radius: 8px;
+}
+
+body {
+  background-image:url(../images/controllers.jpg);
+  background-position: center; 
+
+  }
+
+  .outer{
+  background-image: url(../images/television.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: auto;
+  margin-right: auto;
+  width:700px;
+  height:500px;
+}
+
+ .inner {
+  position: relative;
+  border-radius: 10px;
+  left: 34px;
+  top: 28px;
+  width:520px;
+  height:410px;
+} 
+
+
+.jumbotron-fluid {
+  background-color: black;
+  padding:0px;
+  width:950px;
+  margin:auto;
+ 
+}
+
+.lead{
+  color: red;
+  font-family:  'Press Start 2P', cursive;
+  font-size: 18px;
+  text-align: center;
+}
+
+.navbar{
+  color:white;
+  background-color: #283747;
+  
+}
+
+.navbar-brand{
+  font-family: 'Press Start 2P', cursive; 
+  font-size:35px;
+  margin-left:20px;
+}
+
+.page-footer{
+  font-family: 'Press Start 2P', cursive;
+  color:white;
+  background-color: #283747;
+  /* position:absolute;
+  bottom:0;
+  width:100%; */
+}
+
